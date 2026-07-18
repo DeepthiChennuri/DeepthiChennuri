@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hi there 👋, I'm Chennuri Deepthi<br><br>🎓 Electronics and Communication Engineering (ECE) graduate passionate about software Testing (QA).<br><br>
+## 💫 About Me:
+## Hi there 👋, I'm Chennuri Deepthi<br><br>
+🎓 Electronics and Communication Engineering (ECE) graduate passionate about software Testing (QA).<br><br>
 ## 🚀 About Me<br>
 - 🌱 Currently learning QA Software Testing<br>
 - 💻 Skilled in Java, Selinum and SQL<br>
