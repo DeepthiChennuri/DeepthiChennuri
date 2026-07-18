@@ -15,7 +15,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/chennuri-deepthi-277a892b1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepthichennuri7@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chennuri-deepthi-277a892b1/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deepthichennuri7@gmail.com) 
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
