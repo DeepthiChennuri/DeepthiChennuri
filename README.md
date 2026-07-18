@@ -1,5 +1,16 @@
 # 💫 About Me:
-# Hi there 👋, I'm V. Kranthi Kumar<br><br>🎓 Electronics and Communication Engineering (ECE) graduate passionate about software Testing (QA).<br><br>## 🚀 About Me<br>- 🌱 Currently learning QA Software Testing<br>- 💻 Skilled inJava, Selinum and SQL<br>- 📚 Always eager to learn new technologies<br>- 🎯 Looking for opportunities to start my career as a Software Testing roles and Software Engineer<br><br>## 🛠️ Technologies & Tools<br>- Java<br>- SQL<br>- Manual Testing<br><br>## 📫 Connect with Me<br>- Email: deepthichennuri7@gmail.com
+Hi there 👋, I'm Chennuri Deepthi<br><br>🎓 Electronics and Communication Engineering (ECE) graduate passionate about software Testing (QA).<br><br>
+## 🚀 About Me<br>
+- 🌱 Currently learning QA Software Testing<br>
+- 💻 Skilled in Java, Selinum and SQL<br>
+- 📚 Always eager to learn new technologies<br>
+- 🎯 Looking for opportunities to start my career as a Software Testing roles and Software Engineer<br><br>
+## 🛠️ Technologies & Tools<br>
+- Java<br>
+- SQL<br>
+- Manual Testing<br><br>
+## 📫 Connect with Me<br>
+- Email: deepthichennuri7@gmail.com
 
 
 ## 🌐 Socials:
